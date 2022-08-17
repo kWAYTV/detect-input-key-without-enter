@@ -1,2 +1,2 @@
-# detect-pressed-key-without-enter
+# Detect Input Without Enter
  Simple python script to detect the input of a key without user having to press the enter.
